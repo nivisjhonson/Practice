@@ -3,3 +3,4 @@ bulk
 -n  file 
 missing 
 hydrated 
+help me 
