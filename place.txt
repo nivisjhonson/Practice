@@ -1,1 +1,3 @@
-chennai2 
+data 
+bulk 
+-n  file 
